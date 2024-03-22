@@ -1,0 +1,47 @@
+body{
+    background:linear-gradient(45deg,rgb(86, 13, 255), #dd61c8);
+    justify-content: center;
+    align-items: center;
+    color: rgb(187, 95, 230);
+    
+}
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(255, 251, 252);
+}
+#dia{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#mes{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#boton{
+    color: #000000;
+    background: linear-gradient(45deg,rgb(188, 160, 255), #c876ff);
+}
+#cuadro1{
+    background: linear-gradient(45deg,#d15eff, #7357ec);
+    font-size: 25px;
+    color: white;
+}
+#cuadro2{
+    background: linear-gradient(45deg,rgb(130, 76, 255), #de58ff);
+    font-size: 25px;
+    color: white;
+}
+img{
+    width: 850px;
+    height: auto;
+    display: flex;
+    margin: auto;
+    border-radius: 20px;
+    border-style: solid;
+    
+}
